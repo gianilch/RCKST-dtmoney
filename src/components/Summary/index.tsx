@@ -1,5 +1,5 @@
-import entradaImg from "../../assets/entradas.svg";
-import saidaImg from "../../assets/saidas.svg";
+import entradaImg from "../../assets/income.svg";
+import saidaImg from "../../assets/outcome.svg";
 import totalImg from "../../assets/total.svg";
 import { Container } from "./styles";
 
