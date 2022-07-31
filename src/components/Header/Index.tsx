@@ -6,7 +6,6 @@ interface HeaderProps {
 }
 
 export function Header({ onRequestOpen }: HeaderProps) {
-
   return (
     <Container>
       <Content>
